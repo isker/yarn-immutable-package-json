@@ -1,0 +1,3 @@
+immutablePatterns:
+- "**/package.json"
+- "package.json"
